@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Week1/CountingSort/CountingSort.iml" filepath="$PROJECT_DIR$/Week1/CountingSort/CountingSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/HackerRankChallenge.iml" filepath="$PROJECT_DIR$/HackerRankChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/PlusMinus/PlusMinus.iml" filepath="$PROJECT_DIR$/Week1/PlusMinus/PlusMinus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/Week1.iml" filepath="$PROJECT_DIR$/Week1/Week1.iml" />
     </modules>
   </component>
 </project>
