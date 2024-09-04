@@ -12,5 +12,7 @@ fun plusMinusOptimized(arr:Array<Int>){
 }
 
 fun main(args: Array<String>) {
+    plusMinus(arr = arrayOf(1,2,3,4,5))
+
 
 }
