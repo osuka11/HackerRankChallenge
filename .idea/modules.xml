@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/HackerRankChallenge.iml" filepath="$PROJECT_DIR$/HackerRankChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1/MinMaxSum/MinMaxSum.iml" filepath="$PROJECT_DIR$/Week1/MinMaxSum/MinMaxSum.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1/PlusMinus/PlusMinus.iml" filepath="$PROJECT_DIR$/Week1/PlusMinus/PlusMinus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/TimeConversion/TimeConversion.iml" filepath="$PROJECT_DIR$/Week1/TimeConversion/TimeConversion.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1/Week1.iml" filepath="$PROJECT_DIR$/Week1/Week1.iml" />
     </modules>
   </component>
