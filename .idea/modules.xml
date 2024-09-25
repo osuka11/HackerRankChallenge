@@ -3,9 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Week1/CountingSort/CountingSort.iml" filepath="$PROJECT_DIR$/Week1/CountingSort/CountingSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/DiagonalDifference/DiagonalDifference.iml" filepath="$PROJECT_DIR$/Week1/DiagonalDifference/DiagonalDifference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/FlippingBits/FlippingBits.iml" filepath="$PROJECT_DIR$/Week1/FlippingBits/FlippingBits.iml" />
       <module fileurl="file://$PROJECT_DIR$/HackerRankChallenge.iml" filepath="$PROJECT_DIR$/HackerRankChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/LonelyInteger/LonelyInteger.iml" filepath="$PROJECT_DIR$/Week1/LonelyInteger/LonelyInteger.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1/MinMaxSum/MinMaxSum.iml" filepath="$PROJECT_DIR$/Week1/MinMaxSum/MinMaxSum.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1/PlusMinus/PlusMinus.iml" filepath="$PROJECT_DIR$/Week1/PlusMinus/PlusMinus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/SparseArrays/SparseArrays.iml" filepath="$PROJECT_DIR$/Week1/SparseArrays/SparseArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1/TimeConversion/TimeConversion.iml" filepath="$PROJECT_DIR$/Week1/TimeConversion/TimeConversion.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1/Week1.iml" filepath="$PROJECT_DIR$/Week1/Week1.iml" />
     </modules>
