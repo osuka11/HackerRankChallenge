@@ -7,11 +7,18 @@
       <module fileurl="file://$PROJECT_DIR$/Week1/FlippingBits/FlippingBits.iml" filepath="$PROJECT_DIR$/Week1/FlippingBits/FlippingBits.iml" />
       <module fileurl="file://$PROJECT_DIR$/HackerRankChallenge.iml" filepath="$PROJECT_DIR$/HackerRankChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1/LonelyInteger/LonelyInteger.iml" filepath="$PROJECT_DIR$/Week1/LonelyInteger/LonelyInteger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2/MaxMin/MaxMin.iml" filepath="$PROJECT_DIR$/Week2/MaxMin/MaxMin.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1/MinMaxSum/MinMaxSum.iml" filepath="$PROJECT_DIR$/Week1/MinMaxSum/MinMaxSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/MockTest/MockTest.iml" filepath="$PROJECT_DIR$/Week1/MockTest/MockTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/Pangrams/Pangrams.iml" filepath="$PROJECT_DIR$/Week1/Pangrams/Pangrams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/PermutingTwoArrays/PermutingTwoArrays.iml" filepath="$PROJECT_DIR$/Week1/PermutingTwoArrays/PermutingTwoArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1/PlusMinus/PlusMinus.iml" filepath="$PROJECT_DIR$/Week1/PlusMinus/PlusMinus.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1/SparseArrays/SparseArrays.iml" filepath="$PROJECT_DIR$/Week1/SparseArrays/SparseArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/SubArrayDivision/SubArrayDivision.iml" filepath="$PROJECT_DIR$/Week1/SubArrayDivision/SubArrayDivision.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1/TimeConversion/TimeConversion.iml" filepath="$PROJECT_DIR$/Week1/TimeConversion/TimeConversion.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1/Week1.iml" filepath="$PROJECT_DIR$/Week1/Week1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2/Week2.iml" filepath="$PROJECT_DIR$/Week2/Week2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/XorStrings2/XorStrings2.iml" filepath="$PROJECT_DIR$/Week1/XorStrings2/XorStrings2.iml" />
     </modules>
   </component>
 </project>
